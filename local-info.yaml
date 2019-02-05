@@ -1,0 +1,4 @@
+config:
+  test-env:
+    user: oss-contributor
+    api-key: IyBvcGVuc291cmNlLWRlbW8KClshW0NpcmNsZUNJXShodHRwczovL2NpcmNsZWNpLmNvbS9
